@@ -2,3 +2,5 @@ print ("Hello world:");
 print ("hello everybody:");
 print ("hello agen:");
 print ("hello:")
+print("hello 2:")
+print("hello 3:")
